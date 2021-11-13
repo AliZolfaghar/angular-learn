@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+.hover{
+    padding: 10px;
+    cursor: pointer;
+}
+.hover:hover {
+    background-color: rgba(105, 90, 126, 0.322);
+    padding: 10px;
+}
